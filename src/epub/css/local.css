@@ -166,16 +166,6 @@ tr.together td + td{
 }
 
 /* Dramatis personae scenes */
-dt{
-	display: inline;
-	font-variant: small-caps;
-}
-
-dd{
-	display: inline;
-	margin-left: 0;
-}
-
-dd > p{
-	display: inline;
+[epub|type~="z3998:dramatis-personae"] ul + p + p{
+	margin-top: 1em;
 }
