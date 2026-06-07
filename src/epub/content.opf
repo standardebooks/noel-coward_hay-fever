@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/noel-coward/hay-fever</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-06-07T18:47:50Z</dc:date>
+		<meta property="dcterms:modified">2026-06-07T18:47:50Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,14 +45,14 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A well-to-do family cannot be civil to each other in front of their weekend guests.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Blisses, despite living in the same house, proclaim themselves to be an independent family who entertain their friends separately. The large house starts feeling surprisingly small though, when it turns out that they’ve each invited a different guest down for the same weekend. The family’s surprise however is nothing compared to that of the guests, whose idealised view of what the life of the famous Blisses must be like is shattered in whirl of family intrigue and unexpected situations.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Hay Fever&lt;/i&gt; followed &lt;a href="https://standardebooks.org/ebooks/noel-coward"&gt;Noël Coward’s&lt;/a&gt; breakthrough hit &lt;a href="https://standardebooks.org/ebooks/noel-coward/the-vortex"&gt;&lt;i&gt;The Vortex&lt;/i&gt;&lt;/a&gt;, and was a return to his light comedy roots. Coward’s dry style of humour combined with observations of his contemporary set ensured that it reviewed well, although it was seen as a somewhat light-weight work. It has had an enduring appeal, with stage revivals continuing to this day.&lt;/p&gt;
+			&lt;p&gt;The Blisses, despite living in the same house, proclaim themselves to be an “independent family”—that is, a family in which each member entertains their friends separately. But the large house starts feeling surprisingly small when it turns out that they’ve each invited a different guest down for the same weekend. The family’s surprise, however, is nothing compared to that of its guests, whose idealized view of what the life of the famous Blisses must be like is shattered in a whirl of family intrigue and unexpected situations.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Hay Fever&lt;/i&gt; followed &lt;a href="https://standardebooks.org/ebooks/noel-coward"&gt;Noël Coward’s&lt;/a&gt; breakthrough hit &lt;a href="https://standardebooks.org/ebooks/noel-coward/the-vortex"&gt;&lt;i&gt;The Vortex&lt;/i&gt;&lt;/a&gt;, and was a return to his light comedy roots. Coward’s dry style of humor, combined with observations of his contemporary set, ensured that it was well reviewed, although it was seen as somewhat lightweight. Its enduring appeal has ensured that stage revivals continue to this day.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75666</dc:source>
 		<dc:source>https://archive.org/details/bwb_S0-BGJ-861</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">17673</meta>
+		<meta property="se:reading-ease.flesch">79.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hay_Fever_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/noel-coward_hay-fever</meta>
 		<dc:creator id="author">Noël Coward</dc:creator>
@@ -86,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
