@@ -36,10 +36,10 @@
 		<dc:subject id="subject-2">Comedy plays</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<dc:subject id="subject-3">Families -- Drama</dc:subject>
+		<dc:subject id="subject-3">Families--Drama</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103500</meta>
-		<dc:subject id="subject-4">Psychological games -- Drama</dc:subject>
+		<dc:subject id="subject-4">Psychological games--Drama</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
