@@ -61,7 +61,7 @@
 		<dc:creator id="author">Noël Coward</dc:creator>
 		<meta property="file-as" refines="#author">Coward, Noël</meta>
 		<meta property="schema:alternateName" refines="#author">Noël Peirce Coward</meta>
-		<link href="https://en.wikipedia.org/wiki/Noël_Coward" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/No%C3%ABl_Coward" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79071142.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
